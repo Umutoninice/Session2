@@ -12,8 +12,8 @@ Each class has its own main() .
 ## Exercise 1
 FizzBuzz
 ---------
-*1
-*2
+1
+2
 Fizz
 4
 Buzz
